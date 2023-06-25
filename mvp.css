@@ -210,7 +210,9 @@ details summary {
     cursor: pointer;
 }
 
-h1,
+h1 {
+    line-height: 5pxs;
+}
 h2,
 h3,
 h4,
